@@ -7,9 +7,9 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['234704535241', 'EXCEL', true], 
-  ['2348021779696', 'EXCEL', true], 
-  ['234704503541', '⚡Excel', true],
+  ['923107058820', 'EXCEL', true], 
+  ['923119416058', 'EXCEL', true], 
+  ['923014283429', '⚡Excel', true],
 
 ] //Number of owners
 
@@ -57,11 +57,11 @@ global.premium = 'true'
 global.packname = 'STAR-MD' 
 global.author = '@Excel' 
 global.menuvid = 'https://i.imgur.com/BPqmxsm.mp4'
-global.igfg = '▢✓ Follow My channel\nhttps://whatsapp.com/channel/0029VaE8GbCDzgTILE7OtC3e\n' 
-global.dygp='▢✓ Follow My channel\nhttps://chat.whatsapp.com/Lg0lY4M1k8oDMYzylg86xs\n'
-global.fgsc = 'https://github.com/Xcelsama/STAR-MD-V2' 
-global.fgyt = 'https://chat.whatsapp.com/EmP3syvou18HrZk6R6nTAK'
-global.fgpyp = 'https://chat.whatsapp.com/EmP3syvou18HrZk6R6nTAK'
+global.igfg = '▢✓ Follow My channel\nwa.me/923107058820' 
+global.dygp='▢✓ Follow My channel\nwa.me/923107058820'
+global.fgsc = 'wa.me/923107058820' 
+global.fgyt = 'wa.me/923107058820'
+global.fgpyp = 'wa.me/923107058820'
 global.fglog = 'STAR.jpg' 
 global.thumb = fs.readFileSync('./STAR.jpg')
 
